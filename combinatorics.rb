@@ -9,6 +9,4 @@ function CombinatoricsChallenge(num) {
   num = fibonacci_num(num + 1);
   return num; 
 
-}   
-// keep this function call here 
-console.log(CombinatoricsChallenge(readline()));
+}
